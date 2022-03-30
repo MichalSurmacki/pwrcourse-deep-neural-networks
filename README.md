@@ -1,14 +1,14 @@
-# Projekt z kursu "G³êbokie sieci neuronowe"
-## Temat: Rozpoznawanie jêzyka migowego ze zdjêæ
+# Projekt z kursu "GÅ‚Ä™bokie sieci neuronowe"
+## Temat: Rozpoznawanie jÄ™zyka migowego ze zdjÄ™Ä‡
 
 Terminy oddawania kamieni milowych:
 
-- [] 27.04.2022 - I kamieñ milowy - Prezentacja literatury / Zaimportowanie wszystkich niezbêdnych modu³ów, funkcji i
-obiektów. Za³adowanie zestawu danych.
-- [] 25.05.2022 - II kamieñ milowy - Prezentacja wyników badañ / Oprogramowanie ewaluacji eksperymentalnej do trzech 
-eksperymentów w tym protoko³u eksperymentalnego. 
-Implementacja testów statystycznych. Implementacja prezentacji 
-wyników badañ (tabele i wykresy).
-- [] 22.06.2022 - III kamieñ milowy - Prezentacja gotowych skryptów / Prezentacja gotowych artyku³ów (prezentacji)
+- [ ] 27.04.2022 - I kamieÅ„ milowy - Prezentacja literatury / Zaimportowanie wszystkich niezbÄ™dnych moduÅ‚Ã³w, funkcji i
+obiektÃ³w. ZaÅ‚adowanie zestawu danych.
+- [ ] 25.05.2022 - II kamieÅ„ milowy - Prezentacja wynikÃ³w badaÅ„ / Oprogramowanie ewaluacji eksperymentalnej do trzech 
+eksperymentÃ³w w tym protokoÅ‚u eksperymentalnego. 
+Implementacja testÃ³w statystycznych. Implementacja prezentacji 
+wynikÃ³w badaÅ„ (tabele i wykresy).
+- [ ] 22.06.2022 - III kamieÅ„ milowy - Prezentacja gotowych skryptÃ³w / Prezentacja gotowych artykuÅ‚Ã³w (prezentacji)
 
-Do realizacji zadania wykorzystana zostanie sztuczka konwolucyjna sieæ neuronowa.
+Do realizacji zadania wykorzystana zostanie sztuczna konwolucyjna sieÄ‡ neuronowa.
