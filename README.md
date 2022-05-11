@@ -3,7 +3,7 @@
 
 Terminy oddawania kamieni milowych:
 
-- [ ] 27.04.2022 - I kamień milowy - Prezentacja literatury / Zaimportowanie wszystkich niezbędnych modułów, funkcji i
+- [x] 27.04.2022 - I kamień milowy - Prezentacja literatury / Zaimportowanie wszystkich niezbędnych modułów, funkcji i
 obiektów. Załadowanie zestawu danych.
 - [ ] 25.05.2022 - II kamień milowy - Prezentacja wyników badań / Oprogramowanie ewaluacji eksperymentalnej do trzech 
 eksperymentów w tym protokołu eksperymentalnego. 
